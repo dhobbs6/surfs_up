@@ -9,5 +9,6 @@ The average temperature in June (74.9) is almost four degrees higher than the re
 -
 
 ### **Summary**
+-
 
 I would summarize that the temperature variation is only about 4 degrees. Not a massive amount. Therefore, I would say that the ice cream shop and surfing shop could be operational year-round. When looking at the month of December, we see that the minimum is 56 degrees, which would not be surfing weather. However, we can also tell from the data that the median hovers around the mean. This leads me to be more inclined to see that the surfing shop can be operational year-round. Two additional queries that I would perform to gain additional data would be gathering temperature data on every month, not just June and December, as well as other weather conditions. Gathering more data on more than two months would offer a more precise analysis on whether or not both shops could be operational year-round. Also, gathering other weather data, such as wind conditions, the likelihood of hurricanes, precipitation, etc. would all allow for a more accurate assessment of how successful both shops could be. 
